@@ -1,0 +1,329 @@
+{
+  "nav": {
+    "editor": "Editor",
+    "templates": "Vorlagen",
+    "jobs": "Stellenangebote",
+    "pricing": "Preise",
+    "tips": "Tipps",
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "startEditor": "Online-Editor — Starten",
+    "tipsMenu": {
+      "cv": "Lebenslauf schreiben",
+      "coverLetter": "Anschreiben",
+      "attachments": "Anlagen"
+    }
+  },
+  "home": {
+    "heroTitle": "Erstellen Sie Ihren perfekten Lebenslauf",
+    "heroTitleHighlight": "in wenigen Minuten",
+    "heroSubtitle": "Professioneller Lebenslauf-Editor für Arbeitssuchende in allen Branchen. Wählen Sie eine Vorlage, füllen Sie Ihre Daten aus und laden Sie Ihren fertigen Lebenslauf sofort herunter.",
+    "startButton": "Online-Editor — Starten",
+    "uploadButton": "Bestehenden Lebenslauf hochladen",
+    "features": {
+      "title": "Alles, was Sie brauchen, um Ihren Traumjob zu bekommen",
+      "templates": {
+        "title": "Professionelle Vorlagen",
+        "desc": "Wählen Sie aus 8 wunderschön gestalteten Lebenslauf-Vorlagen, die für jede Branche und Karrierestufe geeignet sind."
+      },
+      "editor": {
+        "title": "Intuitiver Editor",
+        "desc": "Unser Drag-and-Drop-Editor macht es einfach, Ihren Lebenslauf Abschnitt für Abschnitt mit Echtzeit-Vorschau zu erstellen."
+      },
+      "download": {
+        "title": "Sofortiger Download",
+        "desc": "Laden Sie Ihren fertigen Lebenslauf als hochwertiges PDF herunter, bereit zum Versenden an Arbeitgeber."
+      },
+      "bilingual": {
+        "title": "Mehrsprachige Unterstützung",
+        "desc": "Vollständige Benutzeroberfläche in Deutsch, Französisch und Englisch — erstellen Sie Ihren Lebenslauf in der gewünschten Sprache."
+      },
+      "upload": {
+        "title": "Hochladen & Bearbeiten",
+        "desc": "Haben Sie bereits einen Lebenslauf? Laden Sie ihn hoch und verbessern Sie ihn mit unseren professionellen Vorlagen und Tools."
+      },
+      "save": {
+        "title": "Cloud-Speicher",
+        "desc": "Ihre Lebensläufe werden sicher in der Cloud gespeichert. Greifen Sie jederzeit und von jedem Gerät darauf zu."
+      }
+    },
+    "stats": {
+      "cvCreated": "Erstellte Lebensläufe",
+      "templates": "Vorlagen",
+      "languages": "Sprachen",
+      "satisfaction": "Zufriedenheit"
+    },
+    "ctaTitle": "Bereit, Ihren Lebenslauf zu erstellen?",
+    "ctaSubtitle": "Schließen Sie sich Tausenden von Arbeitssuchenden an, die mit unserem professionellen Lebenslauf-Editor ihren Traumjob gefunden haben.",
+    "ctaButton": "Jetzt starten — Kostenlos"
+  },
+  "editor": {
+    "title": "Lebenslauf-Editor",
+    "personalInfo": "Persönliche Angaben",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "jobTitle": "Berufsbezeichnung",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "address": "Adresse",
+    "city": "Stadt",
+    "summary": "Berufliches Profil",
+    "experience": "Berufserfahrung",
+    "education": "Ausbildung",
+    "skills": "Fähigkeiten",
+    "languages": "Sprachen",
+    "certifications": "Zertifizierungen",
+    "jobTitle": "Berufsbezeichnung",
+    "company": "Unternehmen",
+    "startDate": "Startdatum",
+    "endDate": "Enddatum",
+    "present": "Aktuell",
+    "description": "Beschreibung",
+    "degree": "Abschluss",
+    "school": "Schule / Universität",
+    "fieldOfStudy": "Fachrichtung",
+    "skillName": "Fähigkeit",
+    "level": "Niveau",
+    "language": "Sprache",
+    "proficiency": "Kenntnisstand",
+    "certName": "Zertifikatsname",
+    "issuer": "Aussteller",
+    "date": "Datum",
+    "addExperience": "+ Erfahrung hinzufügen",
+    "addEducation": "+ Ausbildung hinzufügen",
+    "addSkill": "+ Fähigkeit hinzufügen",
+    "addLanguage": "+ Sprache hinzufügen",
+    "addCertification": "+ Zertifizierung hinzufügen",
+    "remove": "Entfernen",
+    "download": "PDF herunterladen",
+    "upload": "Lebenslauf hochladen",
+    "save": "Speichern",
+    "chooseTemplate": "Vorlage wählen",
+    "preview": "Vorschau",
+    "beginner": "Anfänger",
+    "intermediate": "Mittelstufe",
+    "advanced": "Fortgeschritten",
+    "expert": "Experte",
+    "native": "Muttersprache",
+    "fluent": "Fließend",
+    "conversational": "Konversationssicher",
+    "basic": "Grundkenntnisse",
+    "colorScheme": "Farbschema",
+    "photo": "Profilfoto",
+    "photoUpload": "Klicken oder ziehen zum Hochladen",
+    "photoRemove": "Foto entfernen",
+    "photoHint": "JPG, PNG — Max. 2 MB",
+    "descriptionStyle": "Listenstil",
+    "styleParagraph": "Absatz",
+    "styleBullet": "Aufzählung •",
+    "styleArrow": "Pfeil →",
+    "styleCheck": "Haken ✓",
+    "styleStar": "Stern ★",
+    "styleDiamond": "Raute ◆",
+    "autoSaved": "Entwurf gespeichert",
+    "autoSaving": "Wird gespeichert…",
+    "clearDraft": "Entwurf löschen",
+    "saveDraft": "Entwurf speichern",
+    "moveUp": "Nach oben",
+    "moveDown": "Nach unten",
+    "cropTitle": "Foto zuschneiden",
+    "applyCrop": "Anwenden",
+    "cancelCrop": "Abbrechen",
+    "zoom": "Zoom",
+    "photoShape": "Fotoform",
+    "photoCircle": "Kreis",
+    "photoRectangle": "Rechteck"
+  },
+  "templates": {
+    "title": "Lebenslauf-Vorlagen",
+    "subtitle": "Wählen Sie aus unseren professionell gestalteten Vorlagen, um Ihren Lebenslauf hervorzuheben.",
+    "useTemplate": "Vorlage verwenden",
+    "preview": "Vorschau",
+    "professional": "Professionell",
+    "modern": "Modern",
+    "creative": "Kreativ",
+    "minimal": "Minimalistisch",
+    "executive": "Executive",
+    "academic": "Akademisch",
+    "tech": "Tech",
+    "classic": "Klassisch",
+    "europa": "Europa",
+    "hamburg": "Hamburg",
+    "berlin": "Berlin",
+    "nordic": "Nordisch",
+    "vienna": "Wien",
+    "details": "Details",
+    "templateDetails": "Vorlagendetails",
+    "colors": "Farben",
+    "primaryColor": "Primär",
+    "secondaryColor": "Sekundär",
+    "accentColor": "Akzent",
+    "fontFamily": "Schriftart",
+    "layout": "Layout",
+    "sidebarLeft": "Linke Seitenleiste",
+    "sidebarRight": "Rechte Seitenleiste",
+    "sidebarNone": "Ohne Seitenleiste",
+    "headerLeft": "Linksbündig",
+    "headerCenter": "Zentriert",
+    "headerSplit": "Geteilt",
+    "closeModal": "Schließen",
+    "bestFor": "Am besten für"
+  },
+  "jobs": {
+    "title": "Stellenangebote",
+    "subtitle": "Finden Sie Ihre nächste Karrieremöglichkeit in allen Branchen.",
+    "search": "Stellenangebote suchen...",
+    "allSectors": "Alle Branchen",
+    "technology": "Technologie",
+    "healthcare": "Gesundheitswesen",
+    "finance": "Finanzen",
+    "education": "Bildung",
+    "marketing": "Marketing",
+    "engineering": "Ingenieurwesen",
+    "sales": "Vertrieb",
+    "design": "Design",
+    "location": "Standort",
+    "applyNow": "Jetzt bewerben",
+    "postedOn": "Veröffentlicht am",
+    "noResults": "Keine Stellenangebote gefunden, die Ihren Kriterien entsprechen."
+  },
+  "pricing": {
+    "title": "Einfache, transparente Preise",
+    "subtitle": "Wählen Sie den Plan, der zu Ihren Bedürfnissen passt. Starten Sie kostenlos und upgraden Sie, wenn Sie bereit sind.",
+    "monthly": "Monatlich",
+    "yearly": "Jährlich",
+    "yearlyDiscount": "20% sparen",
+    "free": {
+      "name": "Kostenlos",
+      "price": "0 €",
+      "period": "/Monat",
+      "desc": "Perfekt zum Einstieg",
+      "features": ["1 Lebenslauf", "3 Basis-Vorlagen", "PDF-Download", "Basis-Editor"],
+      "cta": "Jetzt starten"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "9,99 €",
+      "priceYearly": "7,99 €",
+      "period": "/Monat",
+      "desc": "Für aktive Arbeitssuchende",
+      "features": ["Unbegrenzte Lebensläufe", "Alle Vorlagen", "PDF-Download", "Erweiterter Editor", "Cloud-Speicher", "Prioritäts-Support"],
+      "cta": "Pro wählen",
+      "popular": "Am beliebtesten"
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "19,99 €",
+      "priceYearly": "15,99 €",
+      "period": "/Monat",
+      "desc": "Für Profis",
+      "features": ["Alles in Pro", "KI-Vorschläge", "Anschreiben-Editor", "Mehrere Formate", "Analysen", "Dedizierter Support"],
+      "cta": "Premium wählen"
+    },
+    "perMonth": "/Mo."
+  },
+  "tips": {
+    "title": "Karriere-Tipps & Ratgeber",
+    "cv": {
+      "title": "Einen Lebenslauf schreiben",
+      "subtitle": "Meistern Sie die Kunst des Lebenslauf-Schreibens mit unserem umfassenden Ratgeber.",
+      "intro": "Ein gut verfasster Lebenslauf ist Ihre Eintrittskarte zu Vorstellungsgesprächen. Befolgen Sie diese Expertentipps, um einen Lebenslauf zu erstellen, der sich von der Masse abhebt.",
+      "sections": {
+        "structure": {
+          "title": "Aufbau des Lebenslaufs",
+          "content": "Beginnen Sie mit Ihren Kontaktdaten, gefolgt von einem beruflichen Profil, Berufserfahrung, Ausbildung, Fähigkeiten und zusätzlichen Abschnitten wie Zertifizierungen oder Sprachen. Halten Sie alles übersichtlich und leicht zu überblicken."
+        },
+        "formatting": {
+          "title": "Formatierungstipps",
+          "content": "Verwenden Sie eine saubere, professionelle Schriftart. Halten Sie die Ränder konsistent. Verwenden Sie Aufzählungszeichen für die Lesbarkeit. Begrenzen Sie Ihren Lebenslauf auf 1-2 Seiten. Setzen Sie Fett- und Kursivschrift sparsam ein."
+        },
+        "keywords": {
+          "title": "Schlüsselwörter & ATS",
+          "content": "Viele Unternehmen verwenden Bewerbermanagementsysteme (ATS). Verwenden Sie Schlüsselwörter aus der Stellenbeschreibung. Nutzen Sie Standard-Abschnittsüberschriften. Vermeiden Sie Bilder und komplexe Formatierungen, die ATS nicht lesen kann."
+        },
+        "mistakes": {
+          "title": "Häufige Fehler",
+          "content": "Vermeiden Sie Tippfehler und Grammatikfehler. Nehmen Sie keine irrelevanten Informationen auf. Verwenden Sie keine unprofessionelle E-Mail-Adresse. Lügen Sie nicht über Ihre Erfahrung. Passen Sie Ihren Lebenslauf immer an die Stelle an."
+        }
+      }
+    },
+    "coverLetter": {
+      "title": "Ein Anschreiben verfassen",
+      "subtitle": "Lernen Sie, überzeugende Anschreiben zu verfassen, die Ihren Lebenslauf ergänzen.",
+      "intro": "Ein gutes Anschreiben kann Sie von anderen Bewerbern abheben. Es ist Ihre Chance, Persönlichkeit zu zeigen und zu erklären, warum Sie die perfekte Besetzung sind.",
+      "sections": {
+        "structure": {
+          "title": "Aufbau des Anschreibens",
+          "content": "Beginnen Sie mit einer starken Einleitung, die Aufmerksamkeit erregt. Im Hauptteil verbinden Sie Ihre Erfahrung mit den Stellenanforderungen. Schließen Sie mit einem klaren Handlungsaufruf und drücken Sie Begeisterung für die Stelle aus."
+        },
+        "personalization": {
+          "title": "Personalisierung",
+          "content": "Sprechen Sie den Personalverantwortlichen wenn möglich mit Namen an. Informieren Sie sich über das Unternehmen und erwähnen Sie konkrete Projekte oder Werte, die Sie ansprechen. Zeigen Sie, dass Sie Ihre Hausaufgaben gemacht haben."
+        },
+        "tone": {
+          "title": "Professioneller Ton",
+          "content": "Seien Sie professionell, aber zugänglich. Zeigen Sie Begeisterung, ohne zu übertreiben. Verwenden Sie aktive Sprache und quantifizieren Sie Erfolge, wenn möglich."
+        },
+        "template": {
+          "title": "Mustervorlage",
+          "content": "Sehr geehrte/r [Personalverantwortliche/r], hiermit bewerbe ich mich um die Stelle als [Position] bei [Unternehmen]. Mit [X Jahren] Erfahrung in [Bereich] bringe ich [Schlüsselqualifikationen] mit. Besonders angesprochen hat mich [Unternehmensaspekt]. Ich freue mich auf ein persönliches Gespräch."
+        }
+      }
+    },
+    "attachments": {
+      "title": "Erforderliche Anlagen",
+      "subtitle": "Wissen Sie, welche Dokumente Sie Ihrer Bewerbung beifügen sollten.",
+      "intro": "Verschiedene Stellen erfordern verschiedene Dokumente. Stellen Sie sicher, dass Sie alles bereit haben, bevor Sie sich bewerben.",
+      "sections": {
+        "essential": {
+          "title": "Wesentliche Dokumente",
+          "content": "Lebenslauf, Anschreiben und Referenzen sind die Kerndokumente, die die meisten Arbeitgeber erwarten. Halten Sie diese im PDF-Format für eine professionelle Präsentation bereit."
+        },
+        "additional": {
+          "title": "Zusätzliche Dokumente",
+          "content": "Je nach Stelle benötigen Sie möglicherweise: Diplome und Zeugnisse, berufliche Zertifizierungen, Portfolio oder Arbeitsproben, Empfehlungsschreiben und Identitätsnachweis."
+        },
+        "formats": {
+          "title": "Dateiformate",
+          "content": "PDF ist der Goldstandard für Bewerbungen. Es bewahrt die Formatierung auf allen Geräten. Benennen Sie Dateien klar: Vorname_Nachname_Lebenslauf.pdf. Halten Sie die Dateigröße unter 5 MB."
+        },
+        "organization": {
+          "title": "Organisation",
+          "content": "Erstellen Sie einen eigenen Ordner für jede Bewerbung. Bewahren Sie Masterkopien aller Dokumente auf. Aktualisieren Sie Ihren Lebenslauf vor jeder Bewerbung. Notieren Sie, welche Version Sie an welchen Arbeitgeber gesendet haben."
+        }
+      }
+    }
+  },
+  "login": {
+    "title": "Willkommen zurück",
+    "subtitle": "Melden Sie sich an, um auf Ihre gespeicherten Lebensläufe zuzugreifen und weiterzuarbeiten.",
+    "email": "E-Mail-Adresse",
+    "emailPlaceholder": "sie@beispiel.de",
+    "sendCode": "Magischen Code senden",
+    "enterCode": "Geben Sie den an Ihre E-Mail gesendeten Code ein",
+    "codePlaceholder": "6-stelligen Code eingeben",
+    "verify": "Bestätigen & Anmelden",
+    "back": "Zurück",
+    "noAccount": "Kein Konto? Geben Sie einfach Ihre E-Mail-Adresse ein, um loszulegen.",
+    "sending": "Wird gesendet...",
+    "verifying": "Wird überprüft...",
+    "codeSent": "Code gesendet! Prüfen Sie Ihre E-Mail.",
+    "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+  },
+  "footer": {
+    "description": "Professioneller Lebenslauf-Editor für Arbeitssuchende weltweit. Erstellen, anpassen und herunterladen Sie Ihren perfekten Lebenslauf in wenigen Minuten.",
+    "product": "Produkt",
+    "resources": "Ressourcen",
+    "company": "Unternehmen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "common": {
+    "learnMore": "Mehr erfahren",
+    "getStarted": "Loslegen",
+    "or": "oder"
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "nav": {
+    "editor": "Éditeur",
+    "templates": "Modèles",
+    "jobs": "Emplois",
+    "pricing": "Prix",
+    "tips": "Conseils",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "startEditor": "Éditeur en ligne — Commencer",
+    "tipsMenu": {
+      "cv": "Écrire un CV",
+      "coverLetter": "Lettre de motivation",
+      "attachments": "Pièces jointes"
+    }
+  },
+  "home": {
+    "heroTitle": "Créez Votre CV Parfait",
+    "heroTitleHighlight": "en Quelques Minutes",
+    "heroSubtitle": "Créateur de CV professionnel pour les demandeurs d'emploi dans tous les secteurs d'activité. Choisissez un modèle, remplissez vos informations et téléchargez votre CV soigné instantanément.",
+    "startButton": "Éditeur en ligne — Commencer",
+    "uploadButton": "Télécharger un CV existant",
+    "features": {
+      "title": "Tout ce dont vous avez besoin pour décrocher l'emploi de vos rêves",
+      "templates": {
+        "title": "Modèles Professionnels",
+        "desc": "Choisissez parmi 8 modèles de CV magnifiquement conçus, adaptés à chaque secteur et niveau de carrière."
+      },
+      "editor": {
+        "title": "Éditeur Intuitif",
+        "desc": "Notre éditeur glisser-déposer facilite la création de votre CV section par section avec un aperçu en temps réel."
+      },
+      "download": {
+        "title": "Téléchargement Instantané",
+        "desc": "Téléchargez votre CV finalisé en PDF haute qualité, prêt à envoyer aux employeurs."
+      },
+      "bilingual": {
+        "title": "Support Multilingue",
+        "desc": "Interface complète en français, anglais et allemand — créez votre CV dans la langue dont vous avez besoin."
+      },
+      "upload": {
+        "title": "Importer & Modifier",
+        "desc": "Vous avez déjà un CV ? Importez-le et améliorez-le avec nos modèles et outils professionnels."
+      },
+      "save": {
+        "title": "Sauvegarde Cloud",
+        "desc": "Vos CV sont stockés en toute sécurité dans le cloud. Accédez-y et modifiez-les depuis n'importe quel appareil."
+      }
+    },
+    "stats": {
+      "cvCreated": "CV Créés",
+      "templates": "Modèles",
+      "languages": "Langues",
+      "satisfaction": "Satisfaction"
+    },
+    "ctaTitle": "Prêt à Créer Votre CV ?",
+    "ctaSubtitle": "Rejoignez des milliers de demandeurs d'emploi qui ont décroché le poste de leurs rêves grâce à notre créateur de CV professionnel.",
+    "ctaButton": "Commencer — C'est Gratuit"
+  },
+  "editor": {
+    "title": "Éditeur de CV",
+    "personalInfo": "Informations Personnelles",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "jobTitle": "Titre Professionnel",
+    "email": "Email",
+    "phone": "Téléphone",
+    "address": "Adresse",
+    "city": "Ville",
+    "summary": "Résumé Professionnel",
+    "experience": "Expérience Professionnelle",
+    "education": "Formation",
+    "skills": "Compétences",
+    "languages": "Langues",
+    "certifications": "Certifications",
+    "jobTitle": "Poste",
+    "company": "Entreprise",
+    "startDate": "Date de début",
+    "endDate": "Date de fin",
+    "present": "Présent",
+    "description": "Description",
+    "degree": "Diplôme",
+    "school": "École / Université",
+    "fieldOfStudy": "Domaine d'études",
+    "skillName": "Compétence",
+    "level": "Niveau",
+    "language": "Langue",
+    "proficiency": "Maîtrise",
+    "certName": "Nom de la certification",
+    "issuer": "Organisme",
+    "date": "Date",
+    "addExperience": "+ Ajouter une expérience",
+    "addEducation": "+ Ajouter une formation",
+    "addSkill": "+ Ajouter une compétence",
+    "addLanguage": "+ Ajouter une langue",
+    "addCertification": "+ Ajouter une certification",
+    "remove": "Supprimer",
+    "download": "Télécharger PDF",
+    "upload": "Importer un CV",
+    "save": "Sauvegarder",
+    "chooseTemplate": "Choisir un modèle",
+    "preview": "Aperçu",
+    "beginner": "Débutant",
+    "intermediate": "Intermédiaire",
+    "advanced": "Avancé",
+    "expert": "Expert",
+    "native": "Langue maternelle",
+    "fluent": "Courant",
+    "conversational": "Conversationnel",
+    "basic": "Basique",
+    "colorScheme": "Palette de couleurs",
+    "photo": "Photo de profil",
+    "photoUpload": "Cliquez ou faites glisser pour télécharger",
+    "photoRemove": "Supprimer la photo",
+    "photoHint": "JPG, PNG — Max 2 Mo",
+    "descriptionStyle": "Style de liste",
+    "styleParagraph": "Paragraphe",
+    "styleBullet": "Puce •",
+    "styleArrow": "Flèche →",
+    "styleCheck": "Coche ✓",
+    "styleStar": "Étoile ★",
+    "styleDiamond": "Losange ◆",
+    "autoSaved": "Brouillon sauvegardé",
+    "autoSaving": "Sauvegarde…",
+    "clearDraft": "Effacer le brouillon",
+    "saveDraft": "Enregistrer",
+    "moveUp": "Monter",
+    "moveDown": "Descendre",
+    "cropTitle": "Recadrer la photo",
+    "applyCrop": "Appliquer",
+    "cancelCrop": "Annuler",
+    "zoom": "Zoom",
+    "photoShape": "Forme de la photo",
+    "photoCircle": "Cercle",
+    "photoRectangle": "Rectangle"
+  },
+  "templates": {
+    "title": "Modèles de CV",
+    "subtitle": "Choisissez parmi nos modèles conçus professionnellement pour faire ressortir votre CV.",
+    "useTemplate": "Utiliser ce modèle",
+    "preview": "Aperçu",
+    "professional": "Professionnel",
+    "modern": "Moderne",
+    "creative": "Créatif",
+    "minimal": "Minimaliste",
+    "executive": "Exécutif",
+    "academic": "Académique",
+    "tech": "Tech",
+    "classic": "Classique",
+    "europa": "Europa",
+    "hamburg": "Hamburg",
+    "berlin": "Berlin",
+    "nordic": "Nordique",
+    "vienna": "Vienne",
+    "details": "Détails",
+    "templateDetails": "Détails du modèle",
+    "colors": "Couleurs",
+    "primaryColor": "Primaire",
+    "secondaryColor": "Secondaire",
+    "accentColor": "Accent",
+    "fontFamily": "Police",
+    "layout": "Mise en page",
+    "sidebarLeft": "Barre latérale gauche",
+    "sidebarRight": "Barre latérale droite",
+    "sidebarNone": "Sans barre latérale",
+    "headerLeft": "Aligné à gauche",
+    "headerCenter": "Centré",
+    "headerSplit": "Partagé",
+    "closeModal": "Fermer",
+    "bestFor": "Idéal pour"
+  },
+  "jobs": {
+    "title": "Offres d'Emploi",
+    "subtitle": "Trouvez votre prochaine opportunité de carrière dans tous les secteurs.",
+    "search": "Rechercher des emplois...",
+    "allSectors": "Tous les secteurs",
+    "technology": "Technologie",
+    "healthcare": "Santé",
+    "finance": "Finance",
+    "education": "Éducation",
+    "marketing": "Marketing",
+    "engineering": "Ingénierie",
+    "sales": "Ventes",
+    "design": "Design",
+    "location": "Localisation",
+    "applyNow": "Postuler",
+    "postedOn": "Publié le",
+    "noResults": "Aucun emploi trouvé correspondant à vos critères."
+  },
+  "pricing": {
+    "title": "Tarification Simple et Transparente",
+    "subtitle": "Choisissez le plan qui correspond à vos besoins. Commencez gratuitement et passez à la version supérieure quand vous êtes prêt.",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "yearlyDiscount": "Économisez 20%",
+    "free": {
+      "name": "Gratuit",
+      "price": "0 €",
+      "period": "/mois",
+      "desc": "Parfait pour commencer",
+      "features": ["1 CV", "3 Modèles de base", "Téléchargement PDF", "Éditeur basique"],
+      "cta": "Commencer"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "9,99 €",
+      "priceYearly": "7,99 €",
+      "period": "/mois",
+      "desc": "Pour les chercheurs d'emploi actifs",
+      "features": ["CV illimités", "Tous les modèles", "Téléchargement PDF", "Éditeur avancé", "Stockage cloud", "Support prioritaire"],
+      "cta": "Passer Pro",
+      "popular": "Plus Populaire"
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "19,99 €",
+      "priceYearly": "15,99 €",
+      "period": "/mois",
+      "desc": "Pour les professionnels",
+      "features": ["Tout dans Pro", "Suggestions IA", "Créateur de lettres", "Formats multiples", "Analytiques", "Support dédié"],
+      "cta": "Passer Premium"
+    },
+    "perMonth": "/mois"
+  },
+  "tips": {
+    "title": "Conseils & Guides Carrière",
+    "cv": {
+      "title": "Comment Écrire un CV",
+      "subtitle": "Maîtrisez l'art de la rédaction de CV avec notre guide complet.",
+      "intro": "Un CV bien rédigé est votre billet d'entrée pour décrocher des entretiens. Suivez ces conseils d'experts pour créer un CV qui se démarque.",
+      "sections": {
+        "structure": {
+          "title": "Structure du CV",
+          "content": "Commencez par vos coordonnées, suivi d'un résumé professionnel, de l'expérience professionnelle, de la formation, des compétences et des sections supplémentaires comme les certifications ou les langues. Gardez une organisation claire et facile à parcourir."
+        },
+        "formatting": {
+          "title": "Conseils de Mise en Page",
+          "content": "Utilisez une police propre et professionnelle. Gardez des marges cohérentes. Utilisez des puces pour la lisibilité. Limitez votre CV à 1-2 pages. Utilisez le gras et l'italique avec parcimonie."
+        },
+        "keywords": {
+          "title": "Mots-clés & ATS",
+          "content": "De nombreuses entreprises utilisent des systèmes de suivi des candidatures (ATS). Incluez des mots-clés de la description du poste. Utilisez des titres de section standards. Évitez les images et la mise en forme complexe que les ATS ne peuvent pas lire."
+        },
+        "mistakes": {
+          "title": "Erreurs Courantes",
+          "content": "Évitez les fautes de frappe et les erreurs grammaticales. N'incluez pas d'informations non pertinentes. N'utilisez pas une adresse email non professionnelle. Ne mentez pas sur votre expérience. Adaptez toujours votre CV au poste."
+        }
+      }
+    },
+    "coverLetter": {
+      "title": "Écrire une Lettre de Motivation",
+      "subtitle": "Apprenez à rédiger des lettres de motivation convaincantes qui complètent votre CV.",
+      "intro": "Une excellente lettre de motivation peut vous démarquer des autres candidats. C'est votre chance de montrer votre personnalité et d'expliquer pourquoi vous êtes le candidat idéal.",
+      "sections": {
+        "structure": {
+          "title": "Structure de la Lettre",
+          "content": "Commencez par une accroche percutante. Dans le corps, reliez votre expérience aux exigences du poste. Terminez par un appel à l'action clair et exprimez votre enthousiasme pour le rôle."
+        },
+        "personalization": {
+          "title": "Personnalisation",
+          "content": "Adressez-vous au responsable du recrutement par son nom si possible. Renseignez-vous sur l'entreprise et mentionnez des projets ou valeurs spécifiques qui vous parlent. Montrez que vous avez fait vos recherches."
+        },
+        "tone": {
+          "title": "Ton Professionnel",
+          "content": "Soyez professionnel mais accessible. Montrez de l'enthousiasme sans en faire trop. Utilisez un langage actif et quantifiez vos réalisations lorsque c'est possible."
+        },
+        "template": {
+          "title": "Modèle Type",
+          "content": "Madame, Monsieur, Je vous écris pour exprimer mon intérêt pour le poste de [Poste] au sein de [Entreprise]. Fort(e) de [X années] d'expérience dans [domaine], j'apporte [compétences clés]. Je suis particulièrement attiré(e) par [aspect de l'entreprise]. Je serais ravi(e) de discuter de ma contribution à votre équipe."
+        }
+      }
+    },
+    "attachments": {
+      "title": "Pièces Jointes Requises",
+      "subtitle": "Sachez quels documents inclure avec votre candidature.",
+      "intro": "Différents postes nécessitent différents documents. Assurez-vous d'avoir tout prêt avant de postuler.",
+      "sections": {
+        "essential": {
+          "title": "Documents Essentiels",
+          "content": "CV, Lettre de motivation et Références sont les documents de base attendus par la plupart des employeurs. Ayez-les prêts au format PDF pour une présentation professionnelle."
+        },
+        "additional": {
+          "title": "Documents Supplémentaires",
+          "content": "Selon le poste, vous pourriez avoir besoin de : diplômes et relevés de notes, certifications professionnelles, portfolio ou exemples de travaux, lettres de recommandation et pièce d'identité."
+        },
+        "formats": {
+          "title": "Formats de Fichiers",
+          "content": "Le PDF est le standard pour les candidatures. Il préserve la mise en forme sur tous les appareils. Nommez clairement vos fichiers : Prénom_Nom_CV.pdf. Gardez une taille de fichier inférieure à 5 Mo."
+        },
+        "organization": {
+          "title": "Rester Organisé",
+          "content": "Créez un dossier dédié pour chaque candidature. Gardez des copies maîtresses de tous les documents. Mettez à jour votre CV avant chaque candidature. Notez quelle version vous avez envoyée à quel employeur."
+        }
+      }
+    }
+  },
+  "login": {
+    "title": "Bienvenue",
+    "subtitle": "Connectez-vous pour accéder à vos CV sauvegardés et continuer à créer.",
+    "email": "Adresse Email",
+    "emailPlaceholder": "vous@exemple.com",
+    "sendCode": "Envoyer le code magique",
+    "enterCode": "Entrez le code envoyé à votre email",
+    "codePlaceholder": "Entrez le code à 6 chiffres",
+    "verify": "Vérifier & Se connecter",
+    "back": "Retour",
+    "noAccount": "Pas de compte ? Entrez simplement votre email pour commencer.",
+    "sending": "Envoi...",
+    "verifying": "Vérification...",
+    "codeSent": "Code envoyé ! Vérifiez votre email.",
+    "error": "Une erreur est survenue. Veuillez réessayer."
+  },
+  "footer": {
+    "description": "Créateur de CV professionnel pour les demandeurs d'emploi du monde entier. Créez, personnalisez et téléchargez votre CV parfait en quelques minutes.",
+    "product": "Produit",
+    "resources": "Ressources",
+    "company": "Entreprise",
+    "about": "À propos",
+    "contact": "Contact",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "rights": "Tous droits réservés."
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "getStarted": "Commencer",
+    "or": "ou"
+  }
+}

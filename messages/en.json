@@ -1,0 +1,329 @@
+{
+  "nav": {
+    "editor": "Editor",
+    "templates": "Templates",
+    "jobs": "Jobs",
+    "pricing": "Pricing",
+    "tips": "Tips",
+    "login": "Login",
+    "logout": "Logout",
+    "startEditor": "Online Editor — Start",
+    "tipsMenu": {
+      "cv": "Write a CV",
+      "coverLetter": "Cover Letter",
+      "attachments": "Attachments"
+    }
+  },
+  "home": {
+    "heroTitle": "Create Your Perfect CV",
+    "heroTitleHighlight": "in Minutes",
+    "heroSubtitle": "Professional resume builder for job seekers in every industry. Choose a template, fill in your details, and download your polished CV instantly.",
+    "startButton": "Online Editor — Start",
+    "uploadButton": "Upload Existing CV",
+    "features": {
+      "title": "Everything You Need to Land Your Dream Job",
+      "templates": {
+        "title": "Professional Templates",
+        "desc": "Choose from 8 beautifully designed CV templates suited for every industry and career level."
+      },
+      "editor": {
+        "title": "Intuitive Editor",
+        "desc": "Our drag-and-drop editor makes it easy to build your CV section by section with real-time preview."
+      },
+      "download": {
+        "title": "Instant Download",
+        "desc": "Download your finished CV as a high-quality PDF, ready to send to employers."
+      },
+      "bilingual": {
+        "title": "Multilingual Support",
+        "desc": "Full English, French, and German interface — create your CV in the language you need."
+      },
+      "upload": {
+        "title": "Upload & Edit",
+        "desc": "Already have a CV? Upload it and enhance it with our professional templates and tools."
+      },
+      "save": {
+        "title": "Cloud Save",
+        "desc": "Your CVs are safely stored in the cloud. Access and edit them from any device, anytime."
+      }
+    },
+    "stats": {
+      "cvCreated": "CVs Created",
+      "templates": "Templates",
+      "languages": "Languages",
+      "satisfaction": "Satisfaction"
+    },
+    "ctaTitle": "Ready to Build Your CV?",
+    "ctaSubtitle": "Join thousands of job seekers who have landed their dream jobs with our professional CV builder.",
+    "ctaButton": "Get Started — It's Free"
+  },
+  "editor": {
+    "title": "CV Editor",
+    "personalInfo": "Personal Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "jobTitle": "Professional Title",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "city": "City",
+    "summary": "Professional Summary",
+    "experience": "Work Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "languages": "Languages",
+    "certifications": "Certifications",
+    "jobTitle": "Job Title",
+    "company": "Company",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "present": "Present",
+    "description": "Description",
+    "degree": "Degree",
+    "school": "School / University",
+    "fieldOfStudy": "Field of Study",
+    "skillName": "Skill",
+    "level": "Level",
+    "language": "Language",
+    "proficiency": "Proficiency",
+    "certName": "Certification Name",
+    "issuer": "Issuer",
+    "date": "Date",
+    "addExperience": "+ Add Experience",
+    "addEducation": "+ Add Education",
+    "addSkill": "+ Add Skill",
+    "addLanguage": "+ Add Language",
+    "addCertification": "+ Add Certification",
+    "remove": "Remove",
+    "download": "Download PDF",
+    "upload": "Upload CV",
+    "save": "Save",
+    "chooseTemplate": "Choose Template",
+    "preview": "Preview",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced",
+    "expert": "Expert",
+    "native": "Native",
+    "fluent": "Fluent",
+    "conversational": "Conversational",
+    "basic": "Basic",
+    "colorScheme": "Color Scheme",
+    "photo": "Profile Photo",
+    "photoUpload": "Click or drag to upload photo",
+    "photoRemove": "Remove photo",
+    "photoHint": "JPG, PNG — Max 2 MB",
+    "descriptionStyle": "List style",
+    "styleParagraph": "Paragraph",
+    "styleBullet": "Bullet •",
+    "styleArrow": "Arrow →",
+    "styleCheck": "Check ✓",
+    "styleStar": "Star ★",
+    "styleDiamond": "Diamond ◆",
+    "autoSaved": "Draft saved",
+    "autoSaving": "Saving draft…",
+    "clearDraft": "Clear draft",
+    "saveDraft": "Save Draft",
+    "moveUp": "Move up",
+    "moveDown": "Move down",
+    "cropTitle": "Crop Profile Photo",
+    "applyCrop": "Apply",
+    "cancelCrop": "Cancel",
+    "zoom": "Zoom",
+    "photoShape": "Photo shape",
+    "photoCircle": "Circle",
+    "photoRectangle": "Rectangle"
+  },
+  "templates": {
+    "title": "CV Templates",
+    "subtitle": "Choose from our professionally designed templates to make your CV stand out.",
+    "useTemplate": "Use This Template",
+    "preview": "Preview",
+    "professional": "Professional",
+    "modern": "Modern",
+    "creative": "Creative",
+    "minimal": "Minimal",
+    "executive": "Executive",
+    "academic": "Academic",
+    "tech": "Tech",
+    "classic": "Classic",
+    "europa": "Europa",
+    "hamburg": "Hamburg",
+    "berlin": "Berlin",
+    "nordic": "Nordic",
+    "vienna": "Vienna",
+    "details": "Details",
+    "templateDetails": "Template Details",
+    "colors": "Colors",
+    "primaryColor": "Primary",
+    "secondaryColor": "Secondary",
+    "accentColor": "Accent",
+    "fontFamily": "Font",
+    "layout": "Layout",
+    "sidebarLeft": "Left sidebar",
+    "sidebarRight": "Right sidebar",
+    "sidebarNone": "No sidebar",
+    "headerLeft": "Left aligned",
+    "headerCenter": "Centered",
+    "headerSplit": "Split",
+    "closeModal": "Close",
+    "bestFor": "Best for"
+  },
+  "jobs": {
+    "title": "Job Opportunities",
+    "subtitle": "Find your next career opportunity across all sectors.",
+    "search": "Search jobs...",
+    "allSectors": "All Sectors",
+    "technology": "Technology",
+    "healthcare": "Healthcare",
+    "finance": "Finance",
+    "education": "Education",
+    "marketing": "Marketing",
+    "engineering": "Engineering",
+    "sales": "Sales",
+    "design": "Design",
+    "location": "Location",
+    "applyNow": "Apply Now",
+    "postedOn": "Posted on",
+    "noResults": "No jobs found matching your criteria."
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that fits your needs. Start free and upgrade when you're ready.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "yearlyDiscount": "Save 20%",
+    "free": {
+      "name": "Free",
+      "price": "$0",
+      "period": "/month",
+      "desc": "Perfect to get started",
+      "features": ["1 CV", "3 Basic Templates", "PDF Download", "Basic Editor"],
+      "cta": "Get Started"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "$9.99",
+      "priceYearly": "$7.99",
+      "period": "/month",
+      "desc": "For active job seekers",
+      "features": ["Unlimited CVs", "All Templates", "PDF Download", "Advanced Editor", "Cloud Storage", "Priority Support"],
+      "cta": "Go Pro",
+      "popular": "Most Popular"
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "$19.99",
+      "priceYearly": "$15.99",
+      "period": "/month",
+      "desc": "For professionals",
+      "features": ["Everything in Pro", "AI Suggestions", "Cover Letter Builder", "Multiple Formats", "Analytics", "Dedicated Support"],
+      "cta": "Go Premium"
+    },
+    "perMonth": "/mo"
+  },
+  "tips": {
+    "title": "Career Tips & Guides",
+    "cv": {
+      "title": "How to Write a CV",
+      "subtitle": "Master the art of CV writing with our comprehensive guide.",
+      "intro": "A well-crafted CV is your ticket to landing interviews. Follow these expert tips to create a CV that stands out from the crowd.",
+      "sections": {
+        "structure": {
+          "title": "CV Structure",
+          "content": "Start with your contact information, followed by a professional summary, work experience, education, skills, and additional sections like certifications or languages. Keep it organized and easy to scan."
+        },
+        "formatting": {
+          "title": "Formatting Tips",
+          "content": "Use a clean, professional font. Keep margins consistent. Use bullet points for readability. Limit your CV to 1-2 pages. Use bold and italics sparingly for emphasis."
+        },
+        "keywords": {
+          "title": "Keywords & ATS",
+          "content": "Many companies use Applicant Tracking Systems (ATS). Include keywords from the job description. Use standard section headings. Avoid images and complex formatting that ATS can't read."
+        },
+        "mistakes": {
+          "title": "Common Mistakes",
+          "content": "Avoid typos and grammatical errors. Don't include irrelevant information. Don't use an unprofessional email address. Don't lie about your experience. Always tailor your CV to the job."
+        }
+      }
+    },
+    "coverLetter": {
+      "title": "Writing a Cover Letter",
+      "subtitle": "Learn how to write compelling cover letters that complement your CV.",
+      "intro": "A great cover letter can set you apart from other candidates. It's your chance to show personality and explain why you're the perfect fit.",
+      "sections": {
+        "structure": {
+          "title": "Cover Letter Structure",
+          "content": "Start with a strong opening that grabs attention. In the body, connect your experience to the job requirements. Close with a clear call to action and express enthusiasm for the role."
+        },
+        "personalization": {
+          "title": "Personalization",
+          "content": "Address the hiring manager by name when possible. Research the company and mention specific projects or values that resonate with you. Show that you've done your homework."
+        },
+        "tone": {
+          "title": "Professional Tone",
+          "content": "Be professional but approachable. Show enthusiasm without being over the top. Use active language and quantify achievements when possible."
+        },
+        "template": {
+          "title": "Sample Template",
+          "content": "Dear [Hiring Manager], I am writing to express my interest in the [Position] role at [Company]. With [X years] of experience in [field], I bring [key skills]. I am particularly drawn to [company aspect]. I look forward to discussing how I can contribute to your team."
+        }
+      }
+    },
+    "attachments": {
+      "title": "Required Attachments",
+      "subtitle": "Know what documents to include with your job application.",
+      "intro": "Different jobs require different documents. Make sure you have everything ready before applying.",
+      "sections": {
+        "essential": {
+          "title": "Essential Documents",
+          "content": "CV/Resume, Cover Letter, and References are the core documents most employers expect. Have these ready in PDF format for a professional presentation."
+        },
+        "additional": {
+          "title": "Additional Documents",
+          "content": "Depending on the role, you may need: diplomas and transcripts, professional certifications, portfolio or work samples, letters of recommendation, and proof of identity."
+        },
+        "formats": {
+          "title": "File Formats",
+          "content": "PDF is the gold standard for job applications. It preserves formatting across devices. Name files clearly: FirstName_LastName_CV.pdf. Keep file sizes under 5MB."
+        },
+        "organization": {
+          "title": "Staying Organized",
+          "content": "Create a dedicated folder for each job application. Keep master copies of all documents. Update your CV before each application. Track which version you sent to which employer."
+        }
+      }
+    }
+  },
+  "login": {
+    "title": "Welcome Back",
+    "subtitle": "Sign in to access your saved CVs and continue building.",
+    "email": "Email Address",
+    "emailPlaceholder": "you@example.com",
+    "sendCode": "Send Magic Code",
+    "enterCode": "Enter the code sent to your email",
+    "codePlaceholder": "Enter 6-digit code",
+    "verify": "Verify & Sign In",
+    "back": "Back",
+    "noAccount": "Don't have an account? Just enter your email to get started.",
+    "sending": "Sending...",
+    "verifying": "Verifying...",
+    "codeSent": "Code sent! Check your email.",
+    "error": "An error occurred. Please try again."
+  },
+  "footer": {
+    "description": "Professional CV builder for job seekers worldwide. Create, customize, and download your perfect resume in minutes.",
+    "product": "Product",
+    "resources": "Resources",
+    "company": "Company",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "or": "or"
+  }
+}
